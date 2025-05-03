@@ -29,22 +29,27 @@ Power-bi/
 
 ---
 
-## 🚀 Getting Started
+---
 
-To view and interact with the dashboard:
+## 📸 Dashboard Preview
 
-1. **Install Power BI Desktop**  
-   Download from [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-
-2. **Clone this repository**
-   ```bash
-   git clone https://github.com/Anandxsre![Screenshot 2025-03-05 195053](https://github.com/user-attachments/assets/7487abc8-4af6-4959-9ad4-11e421633c88)
-e/Power-bi.git
-File → Open → Blibkit.pbix
-![Uploading Screenshot 2025-03-05 195053.png…]()
-
+![Dashboard Preview](Screenshot%202025-03-05%20195053.png)
 
 ---
+
+## 🚀 How to Use
+
+1. **Install Power BI Desktop**  
+   Download and install from [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+
+2. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Anandxsree/Power-bi.git
+   cd Power-bi
+
+
+
+
 
 **Next Steps:**
 
